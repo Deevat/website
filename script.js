@@ -2,6 +2,7 @@
   emailjs.init("4yXC2v-FEQpC1HVoB");
 })();
 
+
 // 2. Handle the Form Submission
 document.addEventListener("DOMContentLoaded", () => {
   const contactForm = document.getElementById("contact-form");
